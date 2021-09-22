@@ -1,0 +1,15 @@
+.tabledata{
+    margin:20px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+
+}
+.tabledata td{
+    background-color:black;
+    padding: 10px;
+    color:darkorange;
+    font-size: 10pxpx;
+    font-weight: bold;
+}

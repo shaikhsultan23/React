@@ -1,0 +1,19 @@
+body{
+    background-color:olive;
+    background-image: url("https://picsum.photos/200/300");
+    background-size:500px;
+}
+.navlink a{
+    margin: 5px;
+    padding: 5px;
+    background-color:darkorange;
+    color:black ;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+    
+}
+nav{
+    text-align: center;
+    size: 30px;
+}
